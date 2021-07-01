@@ -1,6 +1,6 @@
 # React_Quiz_APP
 
-React is a JavaScript library used to develop interactive user interfaces. React Quiz App is  Responsive app with time limit, hints and a overall score board
+React is a JavaScript library used to develop interactive user interfaces. React Quiz App is a Responsive app with time limit, hints and a overall score board
 
 ### Modules required
 1) npm
